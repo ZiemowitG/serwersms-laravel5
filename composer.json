@@ -1,11 +1,11 @@
 {
-    "name": "serwer/sms",
+    "name": "ziemowit\serwersms]",
     "description": "This is a Laravel package for communication with the API v2 SerwerSMS.pl",
     "version": "1.0.1",
     "authors": [
         {
-            "name": "SerwerSMS.pl",
-            "email": "biuro@serwersms.pl"
+            "name": "SerwerSMS.pl","Ziemowit G"
+            "email": "biuro@serwersms.pl", "zgil@zgil.pl"
         }
     ],
 	"keywords" : [
